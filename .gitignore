@@ -3,3 +3,6 @@ node_modules
 
 # For shared repository
 common/
+
+# Test directories
+nats-test
