@@ -65,6 +65,7 @@ router.post(
         price: ticket.price,
       },
       userId: order.userId,
+      version: order.version,
     });
 
     res.status(201).json(order);
