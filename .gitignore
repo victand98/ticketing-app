@@ -6,3 +6,6 @@ common/
 
 # Test directories
 nats-test
+
+# Build directories
+.next
